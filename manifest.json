@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sec1-set1",
+    "title": "Secondary 1 Digital Literacy Practice Set 1",
+    "href": "./sec1-set1/index.html"
+  },
+  {
+    "id": "sec1-set2",
+    "title": "Secondary 1 Digital Literacy Practice Set 2",
+    "href": "./sec1-set2/index.html"
+  },
+  {
+    "id": "sec1-set3",
+    "title": "Secondary 1 Digital Literacy Practice Set 3",
+    "href": "./sec1-set3/index.html"
+  },
+  {
+    "id": "sec2-set1",
+    "title": "Secondary 2 Digital Literacy Practice Set 1",
+    "href": "./sec2-set1/index.html"
+  },
+  {
+    "id": "sec2-set2",
+    "title": "Secondary 2 Digital Literacy Practice Set 2",
+    "href": "./sec2-set2/index.html"
+  },
+  {
+    "id": "sec2-set3",
+    "title": "Secondary 2 Digital Literacy Practice Set 3",
+    "href": "./sec2-set3/index.html"
+  }
+]

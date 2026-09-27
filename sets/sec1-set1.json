@@ -1,0 +1,538 @@
+{
+  "id": "sec1-set1",
+  "title": "Secondary 1 Digital Literacy Practice Set 1",
+  "level": 1,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "Which component carries out most instructions in a computer?",
+      "options": [
+        "CPU",
+        "Monitor",
+        "Keyboard",
+        "Printer"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "What is the main purpose of a comment added to a shared document?",
+      "options": [
+        "Delete the document",
+        "Discuss a specific part without changing its text",
+        "Compress its pictures",
+        "Turn it into a spreadsheet"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "What does a router commonly do in a home network?",
+      "options": [
+        "Edits photos",
+        "Stores passwords",
+        "Directs data between networks",
+        "Displays webpages"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "An unexpected message asks you to enter your password through a link. What is the safest first action?",
+      "options": [
+        "Forward it to friends",
+        "Enter a false password",
+        "Reply with your username",
+        "Open the service through its known official address instead"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "A list has the words Late and On time. Which conditional-formatting rule can highlight cells containing Late?",
+      "options": [
+        "Text contains Late",
+        "Top 10 items",
+        "Above average",
+        "Date occurring"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "In a model of bus occupancy, what happens when the assumed number of riders changes?",
+      "options": [
+        "The bus disappears",
+        "Calculated occupancy can change",
+        "The formula becomes a photograph",
+        "The model must be deleted"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "What is printed by print(3 * 4 + 2)?",
+      "options": [
+        "18",
+        "9",
+        "14",
+        "32"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "What type of value does Python input() produce before conversion?",
+      "options": [
+        "Integer",
+        "Float",
+        "Boolean",
+        "String"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "What does print('A' * 3) display?",
+      "options": [
+        "AAA",
+        "A3",
+        "3A",
+        "A A A A"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "A photo app groups pictures by objects it recognises. Which AI ability is being used?",
+      "options": [
+        "File compression",
+        "Image recognition",
+        "Cable routing",
+        "Manual sorting"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Computer systems",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain one difference between system software and application software, and give one example of either.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why does a computer need RAM while a program is running?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give one reason a student might compress a folder before uploading it.",
+          "marks": 1,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Creating and reviewing content",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A partner leaves a comment beside a paragraph in a shared report. Explain how this differs from directly rewriting the paragraph.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Suggest two ways to organise files for a project so the final version is easy to locate.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Computer networks",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A school has one network inside a building and another connecting campuses in different cities. Name the likely network type for each.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how an IP address and a URL serve different purposes when visiting a website.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Managing your digital life",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Give two warning signs that an unexpected account-verification message may be a scam.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "State two safe steps to verify the message without using its link.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Conditional formatting and models",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Cells B2:B5 contain 12, 18, 22 and 18. A rule highlights values above 18. Which cell is highlighted?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "b",
+          "prompt": "Why are the two cells containing 18 not highlighted?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Explain how a colour-scale rule could help a teacher see the range of values in this column.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "What remains in the cells if the rule is deleted?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "A model predicts the number of reusable cups needed for a school event from last month's attendance. Give one assumption and explain one consequence if it is wrong.",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python fundamentals",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name the data type of each value: 7, 7.0 and 'seven'.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain the difference between = and == in Python.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "A program reads age = input('Age: '). Why might int(age) be needed before adding 1?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Give the output of each independent statement: print(20 // 6), print(20 % 6), print('Go' + 'al').",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "AI in action",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A music app recommends songs from listening patterns. Explain how this differs from a fixed alphabetical list.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "How could image recognition help identify a misplaced library book from a photo of its cover?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Explain one benefit and one limitation of testing a library-sorting robot in a simulation before using it near people.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Greenhouse water plan",
+      "intro": "A class models water collected and used by its greenhouse. All amounts are litres. Empty result cells will contain formulas.",
+      "table": [
+        [
+          "Row",
+          "A: Item",
+          "B: Litres"
+        ],
+        [
+          "2",
+          "Rain on Monday",
+          "70"
+        ],
+        [
+          "3",
+          "Rain on Tuesday",
+          "45"
+        ],
+        [
+          "4",
+          "Total collected",
+          ""
+        ],
+        [
+          "5",
+          "Watering",
+          "50"
+        ],
+        [
+          "6",
+          "Cleaning",
+          "35"
+        ],
+        [
+          "7",
+          "Total used",
+          ""
+        ],
+        [
+          "8",
+          "Water left",
+          ""
+        ]
+      ],
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Classify A5 'Watering', B5 '50', and a formula in B8 as label, data or calculation.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a SUM formula for total collected water in B4.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula for total water used in B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "d",
+          "prompt": "Write a formula in B8 for the water left using B4 and B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "e",
+          "prompt": "How many litres of water are left?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "f",
+          "prompt": "Cleaning now needs 15 more litres. State the new amount left and how much the balance decreased.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "g",
+          "prompt": "A rule highlights B8 when fewer than 20 litres remain. State the comparison and whether exactly 20 is highlighted.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "h",
+          "prompt": "Plan A would collect 110 L and use 90 L. Plan B would collect 100 L and use 60 L. The class needs at least 25 L left. Recommend a plan using both balances and the target.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Following and designing flowcharts",
+      "diagram": "Start → Input steps, stride_length → P → Output Q → Stop",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State the purpose of a terminator, a process rectangle and an input/output parallelogram.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "In the steps shown, replace P with a calculation and Q with the value to output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace the steps when steps = 1200 and stride_length = 0.7 m. Give the calculated distance and final output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Build a flowchart that inputs kilometres cycled and minutes per kilometre, calculates total minutes, displays the result, and ends. Drag each step into the correct position and choose its symbol.",
+          "marks": 5,
+          "kind": "flow",
+          "cards": [
+            {
+              "id": "step-f7743b7f2f",
+              "text": "Stop"
+            },
+            {
+              "id": "step-4d21112ac8",
+              "text": "Output total_minutes"
+            },
+            {
+              "id": "step-e17ea5ee9f",
+              "text": "Start"
+            },
+            {
+              "id": "step-4707602ed9",
+              "text": "Input kilometres and minutes per kilometre"
+            },
+            {
+              "id": "step-c9b6e65992",
+              "text": "total_minutes = kilometres * minutes_per_kilometre"
+            }
+          ],
+          "slots": [
+            {
+              "id": "start",
+              "hint": "Position 1"
+            },
+            {
+              "id": "input",
+              "hint": "Position 2"
+            },
+            {
+              "id": "process",
+              "hint": "Position 3"
+            },
+            {
+              "id": "output",
+              "hint": "Position 4"
+            },
+            {
+              "id": "stop",
+              "hint": "Position 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Debugging and writing Python",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "This should convert Celsius to Fahrenheit. Rewrite lines 2 and 3 to fix three errors.",
+          "marks": 3,
+          "kind": "code",
+          "starter": "1 celsius = float(input('Celsius: '))\n2 fahrenheit = celsius * 9 // 5 - 32\n3 print('Celsius:', fahrenheit)"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a Python program that inputs the number of boxes and the number of pencils per box as whole numbers, calculates the total pencils, then prints how many pencils remain after 12 are handed out. Assume the inputs are valid and the total is at least 12.",
+          "marks": 5,
+          "kind": "code",
+          "starter": null
+        },
+        {
+          "id": "c",
+          "prompt": "Give one valid test pair for your program and the expected number remaining.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "AI in a library",
+      "intro": "A library tests AI to recognise books from photos and suggest where to shelve them. An automated arm may later move the books.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "What type of input data could a camera-based book identifier receive?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how the system could identify a book even when its title is partly hidden.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Compare a fixed alphabetical shelving rule with an AI recommendation about where a book belongs.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "The camera also sees students at the counter. Give one privacy concern and one linked action.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The system sometimes confuses books with similar covers. Should staff stop checking its suggestions? Give one benefit, this limitation, a mitigation and a recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Would you test an automated shelving arm in a simulation or among visitors first? Choose and link your reason to a possible harm.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

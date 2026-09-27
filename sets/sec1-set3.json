@@ -1,0 +1,532 @@
+{
+  "id": "sec1-set3",
+  "title": "Secondary 1 Digital Literacy Practice Set 3",
+  "level": 1,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "Which utility helps remove unneeded temporary files?",
+      "options": [
+        "Disk-cleanup tool",
+        "Drawing program",
+        "Web browser",
+        "Presentation editor"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "Which feature helps a team compare earlier versions of a shared document?",
+      "options": [
+        "Page colour",
+        "Version history",
+        "Zoom",
+        "Word count"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "What is an IP address used to identify on a network?",
+      "options": [
+        "A document's font",
+        "A spreadsheet formula",
+        "A connected device",
+        "A file's colour"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "Which action reduces the amount of personal information in a public profile?",
+      "options": [
+        "Publishing your home address",
+        "Posting your timetable",
+        "Adding your phone number",
+        "Removing your location and contact details"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "What does a colour scale in a spreadsheet help show?",
+      "options": [
+        "How values vary across a range",
+        "The age of the computer",
+        "A document's author",
+        "The network password"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "A model estimates water use from daily litres and number of days. Which is an input?",
+      "options": [
+        "The final estimate",
+        "Number of days",
+        "The printed chart",
+        "The cell border"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "What does print(13 // 4) display?",
+      "options": [
+        "3.25",
+        "1",
+        "3",
+        "4"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "Which expression turns the number 12 into text in Python?",
+      "options": [
+        "int(12)",
+        "float(12)",
+        "input(12)",
+        "str(12)"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "Which statement displays the value held in total?",
+      "options": [
+        "print(total)",
+        "print('total')",
+        "total(print)",
+        "display total"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "A device follows the same schedule every day, regardless of new data. This is best described as what?",
+      "options": [
+        "Image recognition",
+        "Rule-based automation",
+        "Plagiarism",
+        "A network address"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Computer systems",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "For a video call, identify one input device and one output device and state what each does.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why is RAM unsuitable as the only place to store a finished assignment?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Creating and reviewing content",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A shared document lets classmates comment or edit. Explain the difference between these two permissions.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "A classmate copies a chart from a website into a report. State two actions that would make the use of the chart responsible.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Computer networks",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "What does a wireless access point allow laptops to do, and what does a router do with network traffic?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain why an encrypted Wi-Fi connection is preferable when sending a private class file.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Managing your digital life",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A laptop has little storage space. State two sensible ways to make space without losing an important project.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why can turning off non-essential notifications help a student manage digital life? Give two linked points.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Conditional formatting and models",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Daily electricity use is 6, 9, 11 and 8 units. A rule highlights values at least 10. Which value is highlighted?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain whether a value of exactly 10 would be highlighted.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give two reasons conditional formatting is more useful than manually colouring individual cells when values may change.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "A model calculates weekly electricity from daily use. What does it represent?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The model uses usage from a cool week to predict a very hot week. Explain a possible error, its effect on a decision, and one improvement.",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python fundamentals",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name the data type of -5, 0.5 and 'False'.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain the difference between / and // in Python.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Why would you use a variable rather than typing the same changing number in several places?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Give the output of each independent statement: print(14 % 5), print('Hi' * 2), print(7 + 2 * 3).",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "AI in action",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain how an AI system could recognise a handwritten digit on a parcel label.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "A sorting machine follows a fixed rule based only on parcel size. How would an AI-based sorter make a different decision?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give one benefit and one limitation of relying on AI to read damaged labels.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Library shelf-space model",
+      "intro": "A library models shelf capacity. Empty result cells will contain formulas.",
+      "table": [
+        [
+          "Row",
+          "A: Item",
+          "B: Spaces"
+        ],
+        [
+          "2",
+          "North shelves",
+          "55"
+        ],
+        [
+          "3",
+          "South shelves",
+          "45"
+        ],
+        [
+          "4",
+          "Available spaces",
+          ""
+        ],
+        [
+          "5",
+          "Reference books",
+          "35"
+        ],
+        [
+          "6",
+          "Borrowing collection",
+          "40"
+        ],
+        [
+          "7",
+          "Spaces used",
+          ""
+        ],
+        [
+          "8",
+          "Empty spaces",
+          ""
+        ]
+      ],
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Classify A5 'Reference books', B5 '35', and the formula in B8 as label, data or calculation.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a SUM formula for available spaces in B4.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula for spaces already used in B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "d",
+          "prompt": "Write a formula in B8 for empty spaces using B4 and B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "e",
+          "prompt": "How many empty spaces are there?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "f",
+          "prompt": "A donation uses 18 more spaces. State the new number empty and the decrease.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "g",
+          "prompt": "A rule highlights B8 when empty spaces are 10 or fewer. Give the comparison and state whether exactly 10 is highlighted.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "h",
+          "prompt": "Arrangement A offers 90 spaces and uses 75. Arrangement B offers 85 spaces and uses 60. The library wants at least 20 empty spaces. Recommend one using both balances and the target.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Following and designing flowcharts",
+      "diagram": "Start → Input chapters, minutes_per_chapter → P → Output Q → Stop",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State the purpose of a terminator, an arrow and an input/output parallelogram.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "In the steps shown, replace P with the calculation and Q with the final value to output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace the steps when chapters = 4 and minutes_per_chapter = 12. State total_minutes and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Build a flowchart that inputs the number of seedlings and pots per seedling, calculates total pots, outputs the result, and ends.",
+          "marks": 5,
+          "kind": "flow",
+          "cards": [
+            {
+              "id": "step-28d3e8bad4",
+              "text": "Start"
+            },
+            {
+              "id": "step-f7f4b29945",
+              "text": "Output total_pots"
+            },
+            {
+              "id": "step-2d58cf8519",
+              "text": "Input seedlings and pots_per_seedling"
+            },
+            {
+              "id": "step-85de7fc8dd",
+              "text": "total_pots = seedlings * pots_per_seedling"
+            },
+            {
+              "id": "step-87f2a30937",
+              "text": "Stop"
+            }
+          ],
+          "slots": [
+            {
+              "id": "start",
+              "hint": "Position 1"
+            },
+            {
+              "id": "input",
+              "hint": "Position 2"
+            },
+            {
+              "id": "process",
+              "hint": "Position 3"
+            },
+            {
+              "id": "output",
+              "hint": "Position 4"
+            },
+            {
+              "id": "stop",
+              "hint": "Position 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Debugging and writing Python",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "This should calculate the average of two readings. Rewrite lines 3 and 4 to fix three errors.",
+          "marks": 3,
+          "kind": "code",
+          "starter": "1 first = float(input('First: '))\n2 second = float(input('Second: '))\n3 average = (first - second) / 3\n4 print('Total:', average)"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a program that inputs the number of cycling laps and metres in each lap as whole numbers, calculates total metres, and prints how many metres remain to reach 5000. Assume the distance is no more than 5000 metres.",
+          "marks": 5,
+          "kind": "code",
+          "starter": null
+        },
+        {
+          "id": "c",
+          "prompt": "Give one valid test pair and the expected metres remaining.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "AI for pedestrian crossings",
+      "intro": "A town considers an AI-assisted pedestrian crossing. Early tests sometimes miss people carrying large umbrellas.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "What type of input data can a camera supply to a pedestrian-detection system?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "How might image recognition distinguish a person waiting from an empty pavement?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Compare a crossing light with a fixed timetable to one that adapts using pedestrian data.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Give one privacy concern about the camera and one relevant safeguard.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The trial misses people carrying large umbrellas. Should the town remove manual crossing checks? Give a benefit, observed limitation, mitigation and recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Why simulate signal decisions before trying them at a busy junction?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "id": "sec2-set3",
+  "title": "Secondary 2 Digital Literacy Practice Set 3",
+  "level": 2,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "Which image type usually stays sharp when a logo is enlarged?",
+      "options": [
+        "Bitmap photograph",
+        "Vector graphic",
+        "Low-resolution raster",
+        "Screenshot"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "What is suitable for a formal response to a supplier?",
+      "options": [
+        "Unexplained slang",
+        "Only emojis",
+        "A clear subject and professional tone",
+        "No greeting or context"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "What does a firewall primarily examine?",
+      "options": [
+        "Screen brightness",
+        "Keyboard speed",
+        "Document layout",
+        "Network traffic against security rules"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "Which search operator limits results to one website or domain?",
+      "options": [
+        "site:",
+        "colour:",
+        "print:",
+        "size:"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "Which function calculates the mean of numeric cells?",
+      "options": [
+        "MAX",
+        "AVERAGE",
+        "COUNT",
+        "MIN"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "What is the result of =COUNTIF(A1:A4,'Yes') for Yes, No, Yes, Yes?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "What follows a condition in an if statement in Python?",
+      "options": [
+        "A comma",
+        "A semicolon",
+        "A full stop",
+        "A colon"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "Which result is produced by print(6 > 4)?",
+      "options": [
+        "True",
+        "6",
+        "4",
+        "False"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "Why are comments useful in a program?",
+      "options": [
+        "They make every program faster",
+        "They explain code to readers",
+        "They replace testing",
+        "They change the value of constants"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "A robot senses an obstacle and changes its route without a person steering it. This is an example of what?",
+      "options": [
+        "A static image",
+        "Manual data entry",
+        "Autonomous behaviour",
+        "A document template"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Representing data",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Convert binary 10101 to denary and show the place values used.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Describe two differences between ASCII and Unicode for storing characters.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Business communication",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A company sends a press release rather than a personal email. Explain two features that should change for the wider audience.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why should a business check names, dates and contact details before publishing a flyer?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Networks and data transmission",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain one advantage of fibre-optic cable and one situation where wireless transmission may still be preferred.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "How can an error-detection method improve confidence that a received file matches the sent file?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Digital citizenship",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Give two ways to make a search about renewable energy more specific than typing those two words alone.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "A website praises only one product and hides its sponsor. Give two reasons to check other sources before trusting its claims.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Spreadsheet functions",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State what SUM and AVERAGE return for a numeric range.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Cells B2:B6 contain 3, 5, 5, 8 and 9. Write a COUNTIF formula for values at least 5.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "What does that formula return?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "d",
+          "prompt": "What does =IF(B2=3,'Start','Later') display when B2 contains 3?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "e",
+          "prompt": "Why should the formula in a repeated table be copied with a fill handle rather than retyped for every row?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "A time column contains 1.5 and 2.25 but the heading just says Time. Describe one possible confusion and a formatting improvement.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python and program development",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Define a flowchart, debugging and documentation in programming.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain the meanings of > and != in Python.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Why is it useful to test values just below and at a decision threshold?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "For the code below, give the output for each independent input: 0, 3 and 7.",
+          "marks": 3,
+          "kind": "written",
+          "codeBlock": "items = int(input('Items: '))\nif items == 0:\n    print('None')\nelif items < 5:\n    print('Some')\nelse:\n    print('Many')"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Machine learning, AR and autonomous systems",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain why training a model only on bright daylight photos may make it less accurate at night.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Describe an AR overlay that could help a visitor identify a historic building through a phone camera.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Explain how an autonomous floor-cleaning robot could react when a person steps into its path.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Energy-use record",
+      "intro": "An eco club records energy use and average room occupancy. D and E are calculated.",
+      "table": [
+        [
+          "Row",
+          "Room",
+          "B: Energy (kWh)",
+          "C: People",
+          "D: kWh/person",
+          "E: Status"
+        ],
+        [
+          "2",
+          "A",
+          "36",
+          "24",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "B",
+          "22",
+          "16",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "C",
+          "28",
+          "8",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "D",
+          "34",
+          "12",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "Totals",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name suitable functions for total energy, average daily occupancy, and highest energy use.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a formula for energy per person in D2 using B2 and C2.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula in B6 for all room energy use.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "d",
+          "prompt": "In C6, write a formula to find mean room occupancy from C2:C5.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "e",
+          "prompt": "What average occupancy does it return?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "f",
+          "prompt": "Write a COUNTIF formula for rooms using more than 30 kWh.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "g",
+          "prompt": "How many rooms meet that condition?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "h",
+          "prompt": "In E2, write an IF formula showing 'Review' if B2 exceeds 30, otherwise 'Normal'.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "i",
+          "prompt": "What status does Room A display?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "j",
+          "prompt": "A team wants to upgrade only rooms marked 'Review'. Evaluate with one table fact, one limitation, one extra kind of data and a recommendation.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Selection flowcharts",
+      "diagram": "Start → Input score → P → Yes: Output 'Caution' / No: Output Q → Stop",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State the purpose of a process rectangle, an input/output parallelogram and a decision diamond.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "For the chart shown, state P for the decision and Q for the No-path output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace the chart for score = 39. State the path and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Build a flowchart that inputs a member's number of visits. If visits are at least 8, set reward to 'Voucher'; otherwise set reward to 'No voucher'. Output reward.",
+          "marks": 5,
+          "kind": "flow",
+          "cards": [
+            {
+              "id": "step-a96a10df87",
+              "text": "reward = 'Voucher'"
+            },
+            {
+              "id": "step-52ee78f38a",
+              "text": "Input visits"
+            },
+            {
+              "id": "step-0f67814ef8",
+              "text": "Start"
+            },
+            {
+              "id": "step-1896da0edd",
+              "text": "Output reward"
+            },
+            {
+              "id": "step-2981f1c0df",
+              "text": "visits >= 8?"
+            },
+            {
+              "id": "step-1beff51f88",
+              "text": "Stop"
+            },
+            {
+              "id": "step-47b1be146a",
+              "text": "reward = 'No voucher'"
+            }
+          ],
+          "slots": [
+            {
+              "id": "start",
+              "hint": "Start"
+            },
+            {
+              "id": "input",
+              "hint": "Input"
+            },
+            {
+              "id": "decision",
+              "hint": "Decision"
+            },
+            {
+              "id": "yes",
+              "hint": "Yes branch"
+            },
+            {
+              "id": "no",
+              "hint": "No branch"
+            },
+            {
+              "id": "output",
+              "hint": "After branches"
+            },
+            {
+              "id": "stop",
+              "hint": "End"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Debugging and writing Python",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "This should show 'Empty' when count is zero and 'Available' otherwise. Rewrite lines 2 to 5 to fix three errors.",
+          "marks": 3,
+          "kind": "code",
+          "starter": "1 count = int(input('Count: '))\n2 if count = 0:\n3     print('Available')\n4 else:\n5     print('Empty')"
+        },
+        {
+          "id": "b",
+          "prompt": "Use constants GOOD_LIMIT = 50 and CAUTION_LIMIT = 100. Input a whole-number air-quality index. Print 'Good' below 50, 'Caution' for 50 to 99, and 'Avoid outdoor activity' for 100 or more.",
+          "marks": 5,
+          "kind": "code",
+          "starter": null
+        },
+        {
+          "id": "c",
+          "prompt": "Give one boundary test with expected output and explain its value.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Autonomous theatre equipment",
+      "intro": "A theatre considers ML for prop checks, AR for maintenance and an autonomous platform to move scenery.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "What data can a model receive to recognise whether a stage prop is in its marked storage area?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how labelled images of correct and incorrect storage help the model judge a new image.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give two AR overlays that could help a technician check stage-light equipment.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "An autonomous platform moves scenery. Give one risk to performers and one safeguard.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The model often misses black props against a dark curtain because training photos used bright backgrounds. Should the theatre remove manual storage checks? Give a benefit, limitation, mitigation and recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Why simulate platform movement before a rehearsal with performers?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

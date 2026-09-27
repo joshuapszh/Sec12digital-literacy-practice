@@ -1,0 +1,504 @@
+[
+  {
+    "number": 1,
+    "key": "B",
+    "suggested": "The suggested answer is B: 9. Binary 1001 has 1s in the 8 and 1 places. Adding those place values gives 9 in denary."
+  },
+  {
+    "number": 2,
+    "key": "C",
+    "suggested": "The suggested answer is C: Memo. A memo is suited to a short internal reminder for staff within an organisation."
+  },
+  {
+    "number": 3,
+    "key": "D",
+    "suggested": "The suggested answer is D: LAN. A LAN connects devices across a limited local area such as a building or campus."
+  },
+  {
+    "number": 4,
+    "key": "A",
+    "suggested": "The suggested answer is A: recycling -advertisement. The minus sign excludes pages containing advertisement from the search results."
+  },
+  {
+    "number": 5,
+    "key": "B",
+    "suggested": "The suggested answer is B: MIN. MIN returns the smallest numeric value in the selected range."
+  },
+  {
+    "number": 6,
+    "key": "C",
+    "suggested": "The suggested answer is C: OK. When B2 is 5, the test B2<5 is false, so the IF formula returns OK."
+  },
+  {
+    "number": 7,
+    "key": "D",
+    "suggested": "The suggested answer is D: Diamond. A decision diamond contains a condition and directs the flow along different branches."
+  },
+  {
+    "number": 8,
+    "key": "A",
+    "suggested": "The suggested answer is A: age != 18. The != operator means not equal, so age != 18 tests whether age differs from 18."
+  },
+  {
+    "number": 9,
+    "key": "B",
+    "suggested": "The suggested answer is B: A value at or just beside a decision threshold. A boundary test uses a value exactly at, or just beside, the point where a condition changes outcome."
+  },
+  {
+    "number": 10,
+    "key": "C",
+    "suggested": "The suggested answer is C: Digital information. Augmented reality overlays digital labels or other information on a view of the real world."
+  },
+  {
+    "number": 11,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The binary place values that contain a 1 are 16, 8 and 1. Adding them gives 25 in denary, so the binary value represents 25.",
+        "checkpoints": "1 mark for correct place values; 1 for 25. A bare 25 earns 1."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It allows more possible colours, but usually requires more bits of storage for the same pixel count.",
+        "checkpoints": "1 mark for more colours; 1 for more storage per pixel."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Using the same fonts and layout makes each page recognisable as part of the same project. Readers can also scan information more easily when headings and sections appear in consistent places.",
+        "checkpoints": "1 mark each for distinct benefits such as recognition, clarity, professionalism or trust."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The subject lets recipients identify the urgent message, and early details help them act without missing the change.",
+        "checkpoints": "1 mark for subject purpose; 1 for prompt clear action/details."
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Wireless suits moving tablets; wired suits a fixed computer needing stable high-speed transfer.",
+        "checkpoints": "1 mark for each justified choice."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The receiver sends the data back; the sender compares it with the original to detect a transmission error.",
+        "checkpoints": "1 mark for returned data; 1 for comparison/error detection."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Search within the organisation's own website using the site: operator, then add filetype:pdf to narrow the results to PDF documents. A date filter can help you find the most recent version.",
+        "checkpoints": "1 mark each for two distinct relevant techniques."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Find the original data source and compare it with another reliable, current source.",
+        "checkpoints": "1 mark each for two explained credibility checks."
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "MIN returns the smallest value in a selected range of cells. COUNTA counts cells that are not empty, including cells containing text, so it answers a different question from MIN.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "b",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=COUNTIF(C2:C5,12)",
+        "accepted": [
+          "=COUNTIF(C2:C5,12)",
+          "=COUNTIF(C2:C5,\"12\")"
+        ]
+      },
+      {
+        "id": "c",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "2",
+        "accepted": [
+          "2"
+        ]
+      },
+      {
+        "id": "d",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "Below",
+        "accepted": [
+          "Below"
+        ]
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "It copies the formula into nearby rows while adjusting relative cell references.",
+        "checkpoints": "1 mark for copying/extending formula or pattern."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Readers may not know the unit; add a heading such as Distance (km) and consistent decimal places.",
+        "checkpoints": "1 mark for a reader problem; 1 for linked formatting fix."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Sequence runs steps in order; selection chooses a path from a condition; decomposition divides a problem into smaller tasks.",
+        "checkpoints": "1 mark for each term."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The operator != checks whether two values are not equal. The operator < checks whether the value on the left is less than the value on the right.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A syntax error breaks language rules and may stop the program; a logic error can run but give a wrong result.",
+        "checkpoints": "1 mark for each correctly distinguished error."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "An input of 4 produces Low, an input of 10 produces Medium, and an input of 15 produces High. Trace each value through the conditions in order to see which branch runs.",
+        "checkpoints": "1 mark each in order."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The model learns visual patterns from labelled cloud photos, then applies those patterns to classify new images.",
+        "checkpoints": "1 mark for labelled training patterns; 1 for new-image classification."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "AR overlays digital information onto the real engine view, such as part labels or repair instructions.",
+        "checkpoints": "1 mark for overlay on real world; 1 for relevant use."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It senses an obstacle or position and adjusts its route automatically according to its programmed behaviour.",
+        "checkpoints": "1 mark for sensor input; 1 for autonomous adjustment."
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "SUM adds the selected values to find their total. AVERAGE finds their mean, and MAX returns the largest value in the selected cells.",
+        "checkpoints": "1 mark for each in order."
+      },
+      {
+        "id": "b",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=B2*C2",
+        "accepted": [
+          "=B2*C2",
+          "=C2*B2"
+        ]
+      },
+      {
+        "id": "c",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(D2:D5)",
+        "accepted": [
+          "=SUM(D2:D5)"
+        ]
+      },
+      {
+        "id": "d",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=AVERAGE(B2:B5)",
+        "accepted": [
+          "=AVERAGE(B2:B5)"
+        ]
+      },
+      {
+        "id": "e",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "18.5",
+        "accepted": [
+          "18.5"
+        ]
+      },
+      {
+        "id": "f",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=COUNTIF(B2:B5,\">=20\")",
+        "accepted": [
+          "=COUNTIF(B2:B5,\">=20\")"
+        ]
+      },
+      {
+        "id": "g",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "2",
+        "accepted": [
+          "2"
+        ]
+      },
+      {
+        "id": "h",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=IF(B2>=20,\"On track\",\"Build habit\")",
+        "accepted": [
+          "=IF(B2>=20,\"On track\",\"Build habit\")"
+        ]
+      },
+      {
+        "id": "i",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "Build habit",
+        "accepted": [
+          "Build habit"
+        ]
+      },
+      {
+        "id": "j",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "The 18-page reader may have read for five days, so a daily threshold alone can miss sustained effort. Consider total pages or days and reading quality before awarding prizes.",
+        "checkpoints": "1 mark each for table evidence, limitation, useful additional data, reasoned recommendation."
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Diamond tests a condition; rectangle performs an action/calculation; parallelogram inputs or outputs data.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "At P, test whether temperature is at least 30, written as temperature >= 30. Q should contain the output 'Normal' for the branch that does not meet the hot condition.",
+        "checkpoints": "1 mark for condition; 1 for No-path output."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Take the Yes or True branch when the temperature meets the condition. That branch outputs 'Hot'.",
+        "checkpoints": "1 mark for Yes; 1 for Hot."
+      },
+      {
+        "id": "d",
+        "kind": "flow",
+        "marks": 5,
+        "suggested": "One correct flowchart places the steps in this order: Start: Start (start/end oval) → Input: Input UV index (input/output parallelogram) → Decision: UV index >= 6? (decision diamond) → Yes branch: advice = 'Seek shade' (process rectangle) → No branch: advice = 'Normal precautions' (process rectangle) → After branches: Output advice (input/output parallelogram) → End: Stop (start/end oval). The symbols show whether each step starts or ends the flow, takes input or output, makes a decision, or performs a calculation.",
+        "expected": {
+          "start": {
+            "card": "step-e7d7f2a15b",
+            "shape": "terminator"
+          },
+          "input": {
+            "card": "step-9c582c3ff5",
+            "shape": "io"
+          },
+          "decision": {
+            "card": "step-e7f4f2369f",
+            "shape": "decision"
+          },
+          "yes": {
+            "card": "step-7a8d49377a",
+            "shape": "process"
+          },
+          "no": {
+            "card": "step-0ff24e953f",
+            "shape": "process"
+          },
+          "output": {
+            "card": "step-458769fc30",
+            "shape": "io"
+          },
+          "stop": {
+            "card": "step-ed3482aa64",
+            "shape": "terminator"
+          }
+        },
+        "scoring": [
+          {
+            "slots": [
+              "start",
+              "input"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "decision"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "yes"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "no"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "output",
+              "stop"
+            ],
+            "marks": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "code",
+        "marks": 3,
+        "suggested": "if visitors == 0:\n    print('Closed')\nelse:\n    print('Open')",
+        "checkpoints": "1 mark for testing == 0 rather than != 0; 1 for outputting Closed in the if branch; 1 for using else: rather than elif:.",
+        "note": "The condition must test whether visitors equals zero. Put 'Closed' on that branch and 'Open' on the else branch, with each print statement indented beneath its branch."
+      },
+      {
+        "id": "b",
+        "kind": "code",
+        "marks": 5,
+        "suggested": "LOW_LIMIT = 20\nHIGH_LIMIT = 80\nbattery = int(input('Battery %: '))\nif battery >= HIGH_LIMIT:\n    print('Full')\nelif battery >= LOW_LIMIT:\n    print('Charge soon')\nelse:\n    print('Critical')",
+        "checkpoints": "1 mark for both constants; 1 for integer input; 1 for each of the three correct branches/output.",
+        "note": "Check the highest battery range first, then the middle range, and use else for values below 20. The named constants make the two boundaries easy to change."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "An input of 80 should produce Full. This test checks the exact upper boundary, where the program should switch to that output rather than the one for a lower number.",
+        "checkpoints": "1 mark for valid threshold or adjacent input with output; 1 for boundary reason."
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "A camera can supply an image or video frame of the racket. The system uses the visible shape and other features in that data to recognise it.",
+        "checkpoints": "1 mark for visual data."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It learns features from labelled cracked and intact examples and compares a new image with those patterns.",
+        "checkpoints": "1 mark for labelled examples; 1 for applying learned features."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "An augmented-reality view could place a label directly over the faulty part of the real machine. It could also show step-by-step repair instructions at the point where the technician needs them.",
+        "checkpoints": "1 mark each for distinct relevant overlays."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It could collide with a person; use obstacle sensors and a restricted route or speed.",
+        "checkpoints": "1 mark for risk; 1 for linked safeguard."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "It speeds initial checks, but misses subtle defects. Add varied labelled hairline-crack photos, retest, and retain staff checks.",
+        "checkpoints": "1 mark each for benefit, observed limitation, mitigation, reasoned recommendation."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Simulation can reveal collisions or unsafe routes without putting people at risk.",
+        "checkpoints": "1 mark for simulation first; 1 for safety link."
+      }
+    ]
+  }
+]

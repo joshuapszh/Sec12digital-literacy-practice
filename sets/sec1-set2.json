@@ -1,0 +1,538 @@
+{
+  "id": "sec1-set2",
+  "title": "Secondary 1 Digital Literacy Practice Set 2",
+  "level": 1,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "Which memory normally keeps its stored instructions when a device is switched off?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Clipboard"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "Which filename makes a class project easiest to find later?",
+      "options": [
+        "new.docx",
+        "thing.docx",
+        "finalfinal.docx",
+        "History_Project_GroupB_2026.docx"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "Which technology usually connects a laptop to a local wireless network?",
+      "options": [
+        "Wi-Fi",
+        "HDMI",
+        "USB storage",
+        "A printer cartridge"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "What does a second authentication factor add to a password?",
+      "options": [
+        "A larger font",
+        "Another proof of identity",
+        "More storage",
+        "A faster network"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "A rule highlights numbers between 20 and 30, inclusive. Which value is highlighted?",
+      "options": [
+        "19",
+        "31",
+        "20",
+        "40"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "Why should a model's assumptions be checked before using its results?",
+      "options": [
+        "Models cannot calculate",
+        "Assumptions are always secret",
+        "The screen might dim",
+        "Unrealistic inputs can produce misleading predictions"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "What is the result of int('8') + 2?",
+      "options": [
+        "10",
+        "82",
+        "'10'",
+        "An error"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "What is the value of 4 ** 2 in Python?",
+      "options": [
+        "8",
+        "16",
+        "6",
+        "42"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "What does print(9 % 4) display?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "0"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "Why might a pilot use a computer simulation before flying a new route?",
+      "options": [
+        "To replace all maps",
+        "To create a password",
+        "To increase fuel use",
+        "To practise without risking a real aircraft"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Computer systems",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Give one task performed by an operating system and explain why it is needed.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Name one application a student could use to make a poster.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "What is one advantage of keeping a compressed archive of a finished project?",
+          "marks": 1,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Creating and reviewing content",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "How can version history help a team after someone accidentally removes a paragraph?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "A student rewrites an online explanation in their own words. State two things they should do to avoid plagiarism.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Computer networks",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Compare the usual range of Bluetooth and Wi-Fi inside a school.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why is sending a password over an encrypted connection safer than sending it as readable text?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Managing your digital life",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A student uploads a group photo to a public page. Give two privacy checks to make first.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain why changing a post from public to friends-only may not remove every trace of an earlier public version.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Conditional formatting and models",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A column contains 4, 7, 7 and 10. A rule highlights duplicate values. Which value is highlighted?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "b",
+          "prompt": "What happens to the values if that duplicate rule is removed?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "A model estimates library seats needed from the number of classes and seats per class. Identify the two inputs.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "If the model predicts 96 seats but only 90 are available, how many more seats are needed?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The model assumes every student attends, but some are absent. Explain how this assumption may affect the decision to hire extra chairs.",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python fundamentals",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name the data type of True, 2.75 and '2.75'.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "What do * and ** mean in Python?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Why is a saved script useful when the same several Python instructions must be run again tomorrow?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Give the output of each independent statement: print(15 / 3), print(15 // 4), print(2 ** 4).",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "AI in action",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A translation app improves after learning from many examples. Explain two features that make this an AI application.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Give one possible benefit and one risk of an AI assistant suggesting replies to personal messages.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Why might a delivery company simulate an automated route before sending a real vehicle?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Field trip travel model",
+      "intro": "A class models the minutes needed for a field trip. Empty result cells will contain formulas.",
+      "table": [
+        [
+          "Row",
+          "A: Item",
+          "B: Minutes"
+        ],
+        [
+          "2",
+          "Outbound bus",
+          "55"
+        ],
+        [
+          "3",
+          "Return bus",
+          "50"
+        ],
+        [
+          "4",
+          "Travel time",
+          ""
+        ],
+        [
+          "5",
+          "Museum visit",
+          "75"
+        ],
+        [
+          "6",
+          "Lunch and break",
+          "25"
+        ],
+        [
+          "7",
+          "Activity time",
+          ""
+        ],
+        [
+          "8",
+          "Total outing time",
+          ""
+        ]
+      ],
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Classify A2 'Outbound bus', B2 '55', and the formula in B8 as label, data or calculation.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a SUM formula for travel time in B4.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula for activity time in B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "d",
+          "prompt": "Write a formula in B8 for the total outing time using B4 and B7.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "e",
+          "prompt": "What total outing time does the model show?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "f",
+          "prompt": "A traffic delay adds 25 minutes to the outbound bus. State the revised total and increase.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "g",
+          "prompt": "A rule highlights B8 when total time exceeds 210 minutes. Give the comparison and state whether exactly 210 is highlighted.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "h",
+          "prompt": "Route A takes 75 minutes of travel and 130 minutes of activities. Route B takes 60 minutes of travel and 140 minutes of activities. The group must finish within 200 minutes. Recommend one using both totals and the limit.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Following and designing flowcharts",
+      "diagram": "Start → Input length, width → P → Output Q → Stop",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State the purpose of an arrow, a process rectangle and a connector in a flowchart.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "In the steps shown, replace P with a calculation and Q with the value to display.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace the steps for length = 8 and width = 3. State area and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Build a flowchart that inputs the number of posters and the cost per poster, calculates total printing cost, outputs it, and ends.",
+          "marks": 5,
+          "kind": "flow",
+          "cards": [
+            {
+              "id": "step-8a40b8798f",
+              "text": "Input posters and cost_per_poster"
+            },
+            {
+              "id": "step-7fc2ec6d7c",
+              "text": "Output total_cost"
+            },
+            {
+              "id": "step-01f03e670d",
+              "text": "Start"
+            },
+            {
+              "id": "step-70876cb847",
+              "text": "total_cost = posters * cost_per_poster"
+            },
+            {
+              "id": "step-ca24aa718c",
+              "text": "Stop"
+            }
+          ],
+          "slots": [
+            {
+              "id": "start",
+              "hint": "Position 1"
+            },
+            {
+              "id": "input",
+              "hint": "Position 2"
+            },
+            {
+              "id": "process",
+              "hint": "Position 3"
+            },
+            {
+              "id": "output",
+              "hint": "Position 4"
+            },
+            {
+              "id": "stop",
+              "hint": "Position 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Debugging and writing Python",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "This should find the perimeter of a square. Rewrite lines 2 and 3 to fix three errors.",
+          "marks": 3,
+          "kind": "code",
+          "starter": "1 side = int(input('Side: '))\n2 perimeter = side * 2\n3 print('Area:', perimeter + 1)"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a program that inputs the number of full water bottles and litres in each as whole numbers. A tank starts with 200 litres. Calculate and print litres left after filling the bottles. Assume the used water is at most 200 litres.",
+          "marks": 5,
+          "kind": "code",
+          "starter": null
+        },
+        {
+          "id": "c",
+          "prompt": "Give a valid pair of inputs and the expected litres left.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "AI for museum exhibits",
+      "intro": "A museum trials an AI guide that recognises exhibits. It is also considering an automated display stand.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name one type of data a camera-based exhibit guide receives.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how image recognition can distinguish a sculpture from a painting.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "A fixed audio guide plays exhibit 1 then 2. How could an AI guide behave differently?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "The guide camera may record other visitors. Give one concern and one action that addresses it.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "A trial confuses two similar sculptures. Should the museum remove all human help desks? Give a benefit, limitation, mitigation and recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Why simulate an automated display stand's movement before allowing visitors near it?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

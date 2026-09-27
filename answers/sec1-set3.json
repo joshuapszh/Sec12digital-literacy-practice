@@ -1,0 +1,462 @@
+[
+  {
+    "number": 1,
+    "key": "A",
+    "suggested": "The suggested answer is A: Disk-cleanup tool. A disk-cleanup tool helps remove temporary files that are no longer needed."
+  },
+  {
+    "number": 2,
+    "key": "B",
+    "suggested": "The suggested answer is B: Version history. Version history records earlier document states, so a team can compare or restore previous versions."
+  },
+  {
+    "number": 3,
+    "key": "C",
+    "suggested": "The suggested answer is C: A connected device. An IP address identifies a connected device or network interface so data can be sent to it."
+  },
+  {
+    "number": 4,
+    "key": "D",
+    "suggested": "The suggested answer is D: Removing your location and contact details. Removing location and contact details reduces the personal information visible to strangers."
+  },
+  {
+    "number": 5,
+    "key": "A",
+    "suggested": "The suggested answer is A: How values vary across a range. A colour scale changes the shade according to each value, making high and low values easier to compare."
+  },
+  {
+    "number": 6,
+    "key": "B",
+    "suggested": "The suggested answer is B: Number of days. The number of days is an input used with daily water use to calculate a total."
+  },
+  {
+    "number": 7,
+    "key": "C",
+    "suggested": "The suggested answer is C: 3. The // operator gives the whole-number quotient. Thirteen divided by four has a quotient of 3."
+  },
+  {
+    "number": 8,
+    "key": "D",
+    "suggested": "The suggested answer is D: str(12). str(12) converts the number 12 into the text string '12'."
+  },
+  {
+    "number": 9,
+    "key": "A",
+    "suggested": "The suggested answer is A: print(total). print(total) displays the value currently stored in the variable named total."
+  },
+  {
+    "number": 10,
+    "key": "B",
+    "suggested": "The suggested answer is B: Rule-based automation. A fixed schedule follows a preset rule regardless of new data, so it is rule-based automation."
+  },
+  {
+    "number": 11,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A microphone is an input device because it captures sound and sends it to the computer. Speakers are output devices because they play sound from the computer to the user.",
+        "checkpoints": "1 mark for input device with function; 1 for output device with function."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "RAM is temporary/volatile, so its contents are lost when power is switched off; permanent storage is needed.",
+        "checkpoints": "1 mark for volatility; 1 for loss of work/need for permanent storage."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A commenter can leave feedback without changing the main text; an editor can change the document.",
+        "checkpoints": "1 mark for commenter; 1 for editor."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Credit the original source of the chart so readers know where the information came from. Also check whether its licence or the creator's permission allows you to reuse it.",
+        "checkpoints": "1 mark for attribution; 1 for permission/licence or accurate context."
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "An access point connects laptops wirelessly to the local network; a router forwards data between networks.",
+        "checkpoints": "1 mark for each role."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It scrambles the transmitted data so an unauthorised listener cannot easily read the file.",
+        "checkpoints": "1 mark for encryption of data in transit; 1 for confidentiality."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Remove unneeded downloads or apps, and move or back up important files to suitable external/cloud storage before deleting local copies.",
+        "checkpoints": "1 mark each for two distinct safe actions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Turning on the setting can reduce interruptions from messages and notifications. This can help the student concentrate on work or manage how long they spend on the screen.",
+        "checkpoints": "1 mark for fewer interruptions; 1 for focus/wellbeing benefit."
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "11",
+        "accepted": [
+          "11"
+        ]
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "Yes, a value of exactly 10 meets an 'at least 10' rule. The phrase includes 10 as well as every value greater than 10.",
+        "checkpoints": "1 mark for yes with inclusive boundary."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The rule updates automatically and applies consistently to the whole selected range.",
+        "checkpoints": "1 mark each for automatic update and consistency/scale."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "An estimate or simplified representation of real electricity use.",
+        "checkpoints": "1 mark for simplified real situation or process."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "It may underestimate use because fans or cooling run more; the class may budget too little; use hot-week data or adjust the assumption.",
+        "checkpoints": "1 mark for direction/reason of error; 1 for decision consequence; 1 for relevant improvement."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The first value is an integer, the second is a float, and the quoted text is a string. Whole numbers, decimal numbers and text are stored as different types in Python.",
+        "checkpoints": "1 mark for each in order."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "/ gives ordinary division; // gives floor division, rounded down to a whole-number quotient.",
+        "checkpoints": "1 mark for each operator."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A variable stores a value under a name, so the program can reuse it later. If the value changes, the program can update the variable in one place and use the new value in later calculations.",
+        "checkpoints": "1 mark for storage/reuse; 1 for easier update/consistency."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The statements print 4, HiHi and 13, in the order asked. Work through the numerical operators first, then remember that multiplying a string repeats its text.",
+        "checkpoints": "1 mark for each correct output in order."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It analyses the image's visual patterns and compares them with learned examples of digits to classify it.",
+        "checkpoints": "1 mark for visual features; 1 for learned comparison/classification."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It could analyse more data or learned patterns and adapt its sorting decision beyond a fixed size rule.",
+        "checkpoints": "1 mark for fixed rule; 1 for data-based adaptation."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It may process many labels quickly, but damaged or unfamiliar writing can cause errors that require human checking.",
+        "checkpoints": "1 mark for benefit; 1 for relevant limitation."
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "A5, which says 'Reference books', is a label describing the row. B5, which contains 35, is data. The formula in B8 is a calculation of the spaces left empty.",
+        "checkpoints": "1 mark each in order."
+      },
+      {
+        "id": "b",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B2:B3)",
+        "accepted": [
+          "=SUM(B2:B3)",
+          "=SUM(B2,B3)"
+        ]
+      },
+      {
+        "id": "c",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B5:B6)",
+        "accepted": [
+          "=SUM(B5:B6)",
+          "=SUM(B5,B6)"
+        ]
+      },
+      {
+        "id": "d",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=B4-B7",
+        "accepted": [
+          "=B4-B7"
+        ]
+      },
+      {
+        "id": "e",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "25",
+        "accepted": [
+          "25",
+          "25 spaces"
+        ]
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "After the change, 7 places are empty. The number of empty places has decreased by 18 compared with the earlier balance.",
+        "checkpoints": "1 mark for 7; 1 for decrease of 18."
+      },
+      {
+        "id": "g",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The rule should use B8 <= 10, meaning less than or equal to 10. A value of exactly 10 is highlighted because equality is included.",
+        "checkpoints": "1 mark for <= 10; 1 for inclusive boundary."
+      },
+      {
+        "id": "h",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "Arrangement A leaves 90 - 75 = 15 empty spaces, below the target of 20. Arrangement B leaves 85 - 60 = 25 empty spaces and meets the target. I recommend Arrangement B.",
+        "checkpoints": "1 mark for each balance; 1 for target comparison; 1 for justified choice."
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Terminator marks start/end; arrow shows flow; parallelogram inputs or outputs data.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "At P, multiply chapters by minutes_per_chapter to calculate total_minutes. At Q, output total_minutes so the reader sees the time required.",
+        "checkpoints": "1 mark for multiplication; 1 for total output."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Multiplying the number of chapters by the minutes per chapter gives total_minutes = 48. The final step outputs 48 minutes.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "d",
+        "kind": "flow",
+        "marks": 5,
+        "suggested": "One correct flowchart places the steps in this order: Position 1: Start (start/end oval) → Position 2: Input seedlings and pots_per_seedling (input/output parallelogram) → Position 3: total_pots = seedlings * pots_per_seedling (process rectangle) → Position 4: Output total_pots (input/output parallelogram) → Position 5: Stop (start/end oval). The symbols show whether each step starts or ends the flow, takes input or output, makes a decision, or performs a calculation.",
+        "expected": {
+          "start": {
+            "card": "step-28d3e8bad4",
+            "shape": "terminator"
+          },
+          "input": {
+            "card": "step-2d58cf8519",
+            "shape": "io"
+          },
+          "process": {
+            "card": "step-85de7fc8dd",
+            "shape": "process"
+          },
+          "output": {
+            "card": "step-f7f4b29945",
+            "shape": "io"
+          },
+          "stop": {
+            "card": "step-87f2a30937",
+            "shape": "terminator"
+          }
+        },
+        "scoring": [
+          {
+            "slots": [
+              "start"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "input"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "process"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "output"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "stop"
+            ],
+            "marks": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "code",
+        "marks": 3,
+        "suggested": "average = (first + second) / 2\nprint('Average:', average)",
+        "checkpoints": "1 mark for addition instead of subtraction; 1 for dividing by 2; 1 for the correct Average label.",
+        "note": "Add the two readings before dividing by 2; the parentheses make this order clear. Then print the average, not an earlier value."
+      },
+      {
+        "id": "b",
+        "kind": "code",
+        "marks": 5,
+        "suggested": "laps = int(input('Laps: '))\nmetres_per_lap = int(input('Metres per lap: '))\ndistance = laps * metres_per_lap\nremaining = 5000 - distance\nprint('Metres remaining:', remaining)",
+        "checkpoints": "1 mark for each converted input; 1 for product distance; 1 for subtraction from 5000; 1 for output.",
+        "note": "Multiply the number of laps by the metres in each lap, then subtract the distance ridden from the 5000-metre target. Print the remaining distance."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "One valid test uses 4 laps of 1000 metres each. After applying the program's calculation, the expected remaining distance is 1000 metres.",
+        "checkpoints": "1 mark for valid inputs with product <=5000; 1 for correct result."
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The camera can provide image data or individual video frames. These contain the visual details the system needs to recognise the object.",
+        "checkpoints": "1 mark for visual data."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It detects visual features and compares them with learned patterns of people in images.",
+        "checkpoints": "1 mark for features; 1 for learned classification."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The fixed light changes on a preset schedule; the adaptive system changes timing from current detected demand.",
+        "checkpoints": "1 mark for fixed schedule; 1 for data-based adaptation."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The camera might record identifiable images of people who are not part of the task. A suitable safeguard is to process images locally or avoid retaining frames that contain faces.",
+        "checkpoints": "1 mark for concern; 1 for linked action."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "It may respond faster, but missed pedestrians create risk. Improve the model with varied images, retest and retain human oversight.",
+        "checkpoints": "1 mark each for benefit, limitation, mitigation and reasoned recommendation."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Simulation can reveal unsafe timing without exposing pedestrians or traffic to an untested signal.",
+        "checkpoints": "1 mark for simulation first; 1 for safety link."
+      }
+    ]
+  }
+]

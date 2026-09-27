@@ -1,0 +1,470 @@
+[
+  {
+    "number": 1,
+    "key": "C",
+    "suggested": "The suggested answer is C: ROM. ROM retains its stored instructions when power is removed; ordinary RAM does not."
+  },
+  {
+    "number": 2,
+    "key": "D",
+    "suggested": "The suggested answer is D: History_Project_GroupB_2026.docx. The descriptive filename identifies the subject, group and year, making the project easier to recognise later."
+  },
+  {
+    "number": 3,
+    "key": "A",
+    "suggested": "The suggested answer is A: Wi-Fi. Wi-Fi connects the laptop to a nearby wireless network without a cable."
+  },
+  {
+    "number": 4,
+    "key": "B",
+    "suggested": "The suggested answer is B: Another proof of identity. A second factor asks for another proof of identity, so knowing the password alone is not enough."
+  },
+  {
+    "number": 5,
+    "key": "C",
+    "suggested": "The suggested answer is C: 20. The range is inclusive, so 20 itself satisfies the between-20-and-30 rule."
+  },
+  {
+    "number": 6,
+    "key": "D",
+    "suggested": "The suggested answer is D: Unrealistic inputs can produce misleading predictions. A model can give misleading predictions if its starting assumptions do not reflect reality."
+  },
+  {
+    "number": 7,
+    "key": "A",
+    "suggested": "The suggested answer is A: 10. int('8') converts the text '8' to the integer 8; adding 2 then gives 10."
+  },
+  {
+    "number": 8,
+    "key": "B",
+    "suggested": "The suggested answer is B: 16. The ** operator means exponentiation, so 4 ** 2 is 4 × 4, or 16."
+  },
+  {
+    "number": 9,
+    "key": "C",
+    "suggested": "The suggested answer is C: 1. The % operator gives the remainder. Dividing 9 by 4 leaves a remainder of 1."
+  },
+  {
+    "number": 10,
+    "key": "D",
+    "suggested": "The suggested answer is D: To practise without risking a real aircraft. A simulation lets the pilot practise decisions without putting an aircraft or passengers at risk."
+  },
+  {
+    "number": 11,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The operating system manages files and folders, so applications and users can save information and find it again. For example, it keeps track of where a document is stored.",
+        "checkpoints": "1 mark for a valid OS task; 1 for its purpose."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "A presentation, drawing or desktop-publishing application.",
+        "checkpoints": "1 mark for a suitable application type or example."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "Compressing the project folder usually reduces the storage space it needs. A smaller file may also be quicker to upload or share.",
+        "checkpoints": "1 mark for reduced space or easier transfer."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It shows earlier versions, allowing the missing paragraph to be found or restored.",
+        "checkpoints": "1 mark for earlier versions being recorded; 1 for recovery/comparison."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Write the explanation in your own words rather than copying the source's wording. Credit the source of the idea so readers can see where the information came from.",
+        "checkpoints": "1 mark for original paraphrasing; 1 for crediting/citing the source."
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Bluetooth usually links nearby devices over a short range; Wi-Fi covers a larger local area through access points.",
+        "checkpoints": "1 mark for nearby Bluetooth; 1 for Wi-Fi local network coverage."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Encryption changes the data into coded form so someone intercepting it cannot readily understand the password.",
+        "checkpoints": "1 mark for coded/unreadable form; 1 for protection against interception."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Ask the people pictured for permission and check that location or other identifying details are not exposed.",
+        "checkpoints": "1 mark each for two distinct privacy checks."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Others may already have copied, downloaded or screenshotted it, so a record may remain elsewhere.",
+        "checkpoints": "1 mark for possible copies; 1 for persistence beyond changed settings."
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "7",
+        "accepted": [
+          "7"
+        ]
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The values remain; only the automatic highlighting is removed.",
+        "checkpoints": "1 mark for data remaining."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The model needs the number of classes and the number of seats required for each class as inputs. It can use those two values to calculate the total number of seats needed.",
+        "checkpoints": "1 mark for each input."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The model predicts 96 seats but only 90 are available. Subtracting 90 from 96 shows that 6 more seats are needed.",
+        "checkpoints": "1 mark for 6."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The model may overestimate seats needed, so hiring extra chairs could waste money. Attendance data could improve the decision.",
+        "checkpoints": "1 mark for overestimate; 1 for linked decision effect; 1 for a sensible improvement or qualification."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The three values have the types Boolean, float and string, in that order. A Boolean represents true or false, a float can contain a decimal, and a string stores text.",
+        "checkpoints": "1 mark for each in order: bool, float, str."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The * operator multiplies two numbers. The ** operator raises a number to a power, so the two symbols produce different calculations.",
+        "checkpoints": "1 mark for each."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A saved Python script keeps the instructions in a file, so they do not have to be typed again tomorrow. Running that file repeats the same program and makes it easier to correct or improve later.",
+        "checkpoints": "1 mark for persistence; 1 for running multiple instructions again."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The three outputs are 5.0, 3 and 16, in the order shown. Check the operator in each statement: ordinary division can produce a decimal, floor division keeps the whole-number quotient, and exponentiation raises a number to a power.",
+        "checkpoints": "1 mark each; accept 5 for the first numerical result."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It learns patterns from examples and uses them to produce language-related predictions or decisions.",
+        "checkpoints": "1 mark for learning from data; 1 for applying patterns to a task."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It can save time, but a suggested reply may misread tone or expose private content.",
+        "checkpoints": "1 mark for relevant benefit; 1 for relevant risk."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It can test likely decisions and obstacles without creating danger or damage on a real road.",
+        "checkpoints": "1 mark for testing decisions; 1 for reduced real-world risk."
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "A2, which says 'Outbound bus', is a label describing the row. B2, which contains 55, is data. The formula in B8 is a calculation that works out the total outing time.",
+        "checkpoints": "1 mark each in order."
+      },
+      {
+        "id": "b",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B2:B3)",
+        "accepted": [
+          "=SUM(B2:B3)",
+          "=SUM(B2,B3)"
+        ]
+      },
+      {
+        "id": "c",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B5:B6)",
+        "accepted": [
+          "=SUM(B5:B6)",
+          "=SUM(B5,B6)"
+        ]
+      },
+      {
+        "id": "d",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=B4+B7",
+        "accepted": [
+          "=B4+B7",
+          "=SUM(B4,B7)"
+        ]
+      },
+      {
+        "id": "e",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "205 minutes",
+        "accepted": [
+          "205",
+          "205 minutes"
+        ]
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The new total is 230 minutes. This is 25 minutes more than the original total, so the model's result increases by 25 minutes.",
+        "checkpoints": "1 mark for 230; 1 for increase of 25."
+      },
+      {
+        "id": "g",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Use the comparison B8 > 210 to highlight values above 210. Exactly 210 is not highlighted because it is equal to, rather than greater than, the threshold.",
+        "checkpoints": "1 mark for greater than 210; 1 for boundary explanation."
+      },
+      {
+        "id": "h",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "Route A takes 75 + 130 = 205 minutes, exceeding the 200-minute limit. Route B takes 60 + 140 = 200 minutes, so it finishes exactly within the limit. I recommend Route B.",
+        "checkpoints": "1 mark for each total; 1 for comparing both with limit; 1 for justified recommendation."
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Arrow shows direction; rectangle performs a calculation; connector links another part of the chart.",
+        "checkpoints": "1 mark each."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "At P, calculate the area by multiplying length by width. At Q, output the area that was calculated.",
+        "checkpoints": "1 mark for correct product; 1 for area output."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The calculation gives an area of 24 square units. The flowchart should then output 24 as its final result.",
+        "checkpoints": "1 mark for area 24; 1 for output 24."
+      },
+      {
+        "id": "d",
+        "kind": "flow",
+        "marks": 5,
+        "suggested": "One correct flowchart places the steps in this order: Position 1: Start (start/end oval) → Position 2: Input posters and cost_per_poster (input/output parallelogram) → Position 3: total_cost = posters * cost_per_poster (process rectangle) → Position 4: Output total_cost (input/output parallelogram) → Position 5: Stop (start/end oval). The symbols show whether each step starts or ends the flow, takes input or output, makes a decision, or performs a calculation.",
+        "expected": {
+          "start": {
+            "card": "step-01f03e670d",
+            "shape": "terminator"
+          },
+          "input": {
+            "card": "step-8a40b8798f",
+            "shape": "io"
+          },
+          "process": {
+            "card": "step-70876cb847",
+            "shape": "process"
+          },
+          "output": {
+            "card": "step-7fc2ec6d7c",
+            "shape": "io"
+          },
+          "stop": {
+            "card": "step-ca24aa718c",
+            "shape": "terminator"
+          }
+        },
+        "scoring": [
+          {
+            "slots": [
+              "start"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "input"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "process"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "output"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "stop"
+            ],
+            "marks": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "code",
+        "marks": 3,
+        "suggested": "perimeter = 4 * side\nprint('Perimeter:', perimeter)",
+        "checkpoints": "1 mark for multiplying by 4; 1 for removing the extra +1 from the displayed value; 1 for the Perimeter label.",
+        "note": "A square has four equal sides, so multiply side by 4. Print the calculated perimeter with a matching label."
+      },
+      {
+        "id": "b",
+        "kind": "code",
+        "marks": 5,
+        "suggested": "bottles = int(input('Bottles: '))\nlitres_each = int(input('Litres each: '))\nused = bottles * litres_each\nleft = 200 - used\nprint('Litres left:', left)",
+        "checkpoints": "1 mark for each converted input; 1 for product used; 1 for subtracting from 200; 1 for printing left.",
+        "note": "Convert the two inputs to integers, multiply them to find the water used, and subtract that amount from the tank's starting 200 litres."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "For example, test the program with 5 bottles containing 10 litres each. Filling them uses 50 litres from the 200-litre tank, so the expected output is 150 litres left.",
+        "checkpoints": "1 mark for valid inputs using at most 200 L; 1 for correct result."
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The camera can supply an image or a video frame of the exhibit. The system can inspect visible details in that visual data to identify the exhibit.",
+        "checkpoints": "1 mark for data type."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It examines visual features and matches patterns learned from examples of sculptures and paintings.",
+        "checkpoints": "1 mark for visual features; 1 for classification using learned patterns."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The fixed guide follows a preset sequence; AI could adapt information to the exhibit viewed or visitor interests.",
+        "checkpoints": "1 mark for fixed sequence; 1 for adaptive response."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Their images may be collected without consent; limit the camera view or avoid storing unrelated frames.",
+        "checkpoints": "1 mark for concern; 1 for linked action."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "The guide can answer quickly, but misidentification may mislead visitors. Keep human support and improve/retest image examples.",
+        "checkpoints": "1 mark each for benefit, trial limitation, mitigation and reasoned recommendation."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Test the movement in a simulation first. This lets the team find unsafe behaviour without putting visitors at risk of injury or damaging an exhibit.",
+        "checkpoints": "1 mark for simulation-first decision; 1 for linked harm prevention."
+      }
+    ]
+  }
+]

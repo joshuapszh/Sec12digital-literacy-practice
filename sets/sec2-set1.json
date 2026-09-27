@@ -1,0 +1,575 @@
+{
+  "id": "sec2-set1",
+  "title": "Secondary 2 Digital Literacy Practice Set 1",
+  "level": 2,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "What is the denary value of binary 1001?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "Which document would best communicate a short internal staff reminder?",
+      "options": [
+        "Magazine cover",
+        "Poster for customers",
+        "Memo",
+        "Product label"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "Which network type normally covers a university campus or one building?",
+      "options": [
+        "WAN",
+        "MAN",
+        "Satellite network",
+        "LAN"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "Which search query excludes results containing the word advertisement?",
+      "options": [
+        "recycling -advertisement",
+        "recycling +advertisement",
+        "recycling advertisement",
+        "'recycling advertisement'"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "Which function finds the smallest value in a range?",
+      "options": [
+        "MAX",
+        "MIN",
+        "COUNT",
+        "IF"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "What is the result of =IF(B2<5,'Low','OK') when B2 is 5?",
+      "options": [
+        "Low",
+        "5",
+        "OK",
+        "Error"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "Which flowchart shape represents a decision?",
+      "options": [
+        "Oval",
+        "Rectangle",
+        "Parallelogram",
+        "Diamond"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "Which Python expression tests that age is not equal to 18?",
+      "options": [
+        "age != 18",
+        "age =! 18",
+        "age = 18",
+        "age <> 18"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "What should a useful boundary test include?",
+      "options": [
+        "Only random text",
+        "A value at or just beside a decision threshold",
+        "Only the largest possible file",
+        "No expected output"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "In augmented reality, what is added to the real-world view?",
+      "options": [
+        "A paper document",
+        "A new physical object",
+        "Digital information",
+        "A network cable"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Representing data",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Convert binary 11001 to denary. Show the place values you add.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain two ways increasing a bitmap image's colour depth can affect the image or its storage.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Business communication",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A charity sends a monthly newsletter. Give two ways a consistent house style helps readers.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Why should an event cancellation email include a clear subject and the new arrangements near the start?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Networks and data transmission",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Give one situation where a wireless connection is useful and one where a wired connection is preferable. Explain each choice briefly.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain what an echo check can reveal when data is sent across a network.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Digital citizenship",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Write two different search techniques to find recent PDF reports about plastic waste from a known organisation.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "A chart online gives a surprising number but no source. Explain two checks before using it in a report.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Spreadsheet functions",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State what MIN and COUNTA return for a selected range.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Cells C2:C5 contain 8, 12, 15 and 12. Write a COUNTIF formula for values equal to 12.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "What result does that COUNTIF formula return?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "d",
+          "prompt": "What does =IF(C2>=10,'Target','Below') display for C2 = 8?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "e",
+          "prompt": "Explain one reason to use the fill handle after writing the formula in the first row.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Give one display problem and one formatting improvement if a column of measurements is shown as 1.5, 2 and 2.25 with no unit heading.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python and program development",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Define sequence, selection and decomposition in program design.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain what != and < mean in Python conditions.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give one difference between a syntax error and a logic error.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "For the code below, give the output for each independent input: 4, 10 and 15.",
+          "marks": 3,
+          "kind": "written",
+          "codeBlock": "n = int(input('Number: '))\nif n >= 15:\n    print('High')\nelif n >= 10:\n    print('Medium')\nelse:\n    print('Low')"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Machine learning, AR and autonomous systems",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain how labelled examples can help a model recognise types of clouds in new photos.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "What is augmented reality, and how could it help a technician inspect an engine?",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Explain one way an autonomous inspection drone uses sensor data to act without constant steering.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Reading log analysis",
+      "intro": "A reading club records average pages read per day and active reading days. Column D is calculated; column E will show a status.",
+      "table": [
+        [
+          "Row",
+          "Book",
+          "B: Pages/day",
+          "C: Days",
+          "D: Total pages",
+          "E: Status"
+        ],
+        [
+          "2",
+          "River Atlas",
+          "18",
+          "5",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "Night Sky",
+          "24",
+          "3",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "Island Tales",
+          "12",
+          "6",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "Space Notes",
+          "20",
+          "2",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "Totals",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name the best function for total pages read, mean pages per day, and highest pages read in a day.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a formula for total pages in D2 from pages per day in B2 and number of days in C2.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula in D6 for all total pages.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "d",
+          "prompt": "Write an AVERAGE formula for B2:B5.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "e",
+          "prompt": "What is the average pages per day?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "f",
+          "prompt": "Write a COUNTIF formula for pages per day of at least 20 in B2:B5.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "g",
+          "prompt": "What count does this produce?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "h",
+          "prompt": "In E2, write an IF formula that shows 'On track' for 20 or more pages per day, otherwise 'Build habit'.",
+          "marks": 1,
+          "kind": "formula"
+        },
+        {
+          "id": "i",
+          "prompt": "What status does the first row display?",
+          "marks": 1,
+          "kind": "exact"
+        },
+        {
+          "id": "j",
+          "prompt": "A club would award prizes only to readers labelled 'On track'. Evaluate this using one table fact, one limitation, one additional piece of data, and a recommendation.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Selection flowcharts",
+      "diagram": "Start → Input temperature → P → Yes: Output 'Hot' / No: Output Q → Stop",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "State the purpose of a decision diamond, a process rectangle and an input/output parallelogram.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "In the flow shown, give the missing decision P and the output Q on its No path.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace the chart for temperature = 32. State the decision path and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Build a flowchart that inputs UV index. If it is at least 6, set advice to 'Seek shade'; otherwise set advice to 'Normal precautions'. Output advice. Drag steps into the chart and choose symbols.",
+          "marks": 5,
+          "kind": "flow",
+          "cards": [
+            {
+              "id": "step-ed3482aa64",
+              "text": "Stop"
+            },
+            {
+              "id": "step-0ff24e953f",
+              "text": "advice = 'Normal precautions'"
+            },
+            {
+              "id": "step-458769fc30",
+              "text": "Output advice"
+            },
+            {
+              "id": "step-9c582c3ff5",
+              "text": "Input UV index"
+            },
+            {
+              "id": "step-e7d7f2a15b",
+              "text": "Start"
+            },
+            {
+              "id": "step-7a8d49377a",
+              "text": "advice = 'Seek shade'"
+            },
+            {
+              "id": "step-e7f4f2369f",
+              "text": "UV index >= 6?"
+            }
+          ],
+          "slots": [
+            {
+              "id": "start",
+              "hint": "Start"
+            },
+            {
+              "id": "input",
+              "hint": "Input"
+            },
+            {
+              "id": "decision",
+              "hint": "Decision"
+            },
+            {
+              "id": "yes",
+              "hint": "Yes branch"
+            },
+            {
+              "id": "no",
+              "hint": "No branch"
+            },
+            {
+              "id": "output",
+              "hint": "After branches"
+            },
+            {
+              "id": "stop",
+              "hint": "End"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Debugging and writing Python",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "This code should show 'Closed' when visitors are 0 and 'Open' otherwise. Rewrite lines 2 to 4 to fix three errors.",
+          "marks": 3,
+          "kind": "code",
+          "starter": "1 visitors = int(input('Visitors: '))\n2 if visitors != 0:\n3     print('Open')\n4 elif:\n5     print('Open')"
+        },
+        {
+          "id": "b",
+          "prompt": "Write a program using constants LOW_LIMIT = 20 and HIGH_LIMIT = 80. Input an integer battery percentage. Print 'Full' for 80 or more, 'Charge soon' for 20 to 79, and 'Critical' below 20.",
+          "marks": 5,
+          "kind": "code",
+          "starter": null
+        },
+        {
+          "id": "c",
+          "prompt": "Give one useful boundary test, its expected output, and why it tests a boundary.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Smart sports equipment",
+      "intro": "A sports centre tests ML to inspect rackets, AR to assist maintenance, and an autonomous robot to move equipment.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "What type of data might a model receive to recognise a crack in a sports racket?",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how labelled training photos help it classify a new racket.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give two ways AR could help a technician repair a racket-testing machine.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "A robot carries rackets through a busy gym. Give one safety risk and one linked safeguard.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The model misses hairline cracks because training photos mostly showed large breaks. Should staff stop inspecting rackets? Give a benefit, limitation, mitigation and recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Why test the robot's route in a simulation before using it during sports practice?",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

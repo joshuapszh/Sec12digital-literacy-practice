@@ -1,0 +1,470 @@
+[
+  {
+    "number": 1,
+    "key": "A",
+    "suggested": "The suggested answer is A: CPU. The CPU runs most of the computer's instructions; the monitor, keyboard and printer mainly handle input or output."
+  },
+  {
+    "number": 2,
+    "key": "B",
+    "suggested": "The suggested answer is B: Discuss a specific part without changing its text. A comment lets collaborators discuss a specific passage while leaving the document's main text unchanged."
+  },
+  {
+    "number": 3,
+    "key": "C",
+    "suggested": "The suggested answer is C: Directs data between networks. A router directs data between networks, such as the home network and the internet."
+  },
+  {
+    "number": 4,
+    "key": "D",
+    "suggested": "The suggested answer is D: Open the service through its known official address instead. Opening the service through an address you already trust avoids the unexpected link, which could lead to a fake sign-in page."
+  },
+  {
+    "number": 5,
+    "key": "A",
+    "suggested": "The suggested answer is A: Text contains Late. A text-contains rule can look for the word Late and highlight only cells containing that text."
+  },
+  {
+    "number": 6,
+    "key": "B",
+    "suggested": "The suggested answer is B: Calculated occupancy can change. The predicted occupancy depends on the rider assumption. Changing that input can change the calculated result."
+  },
+  {
+    "number": 7,
+    "key": "C",
+    "suggested": "The suggested answer is C: 14. Multiplication happens before addition: 3 × 4 is 12, and adding 2 gives 14."
+  },
+  {
+    "number": 8,
+    "key": "D",
+    "suggested": "The suggested answer is D: String. Python input() returns a string, even if the user types digits. Conversion is needed before numeric calculations."
+  },
+  {
+    "number": 9,
+    "key": "A",
+    "suggested": "The suggested answer is A: AAA. Multiplying the string 'A' by 3 repeats its character three times, giving AAA."
+  },
+  {
+    "number": 10,
+    "key": "B",
+    "suggested": "The suggested answer is B: Image recognition. Grouping photos by recognised objects uses image recognition to identify visual features."
+  },
+  {
+    "number": 11,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "System software manages the computer, such as an operating system; application software helps a user do a task, such as a word processor.",
+        "checkpoints": "1 mark for a valid difference; 1 for a correctly classified example."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "RAM temporarily holds data and instructions currently in use.",
+        "checkpoints": "1 mark for temporary working storage during execution."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "Compressing the folder can make it smaller, so there is less data to upload and the transfer may finish sooner.",
+        "checkpoints": "1 mark for smaller storage or transfer size/time."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A comment records feedback without changing the main text, allowing the writer to consider and respond to it.",
+        "checkpoints": "1 mark for feedback attached to text; 1 for text remaining unchanged or the writer deciding what to do."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Create one clearly named folder for the project so related files stay together. Give each file a descriptive name or a version label, such as 'report-final', so the finished copy is easy to recognise.",
+        "checkpoints": "1 mark each for two distinct methods, such as folder structure, descriptive filenames, dates or version labels."
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A network inside one school building is likely a local area network, or LAN, because it covers a small area. A connection between campuses in different cities is a wide area network, or WAN.",
+        "checkpoints": "1 mark for LAN; 1 for WAN."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "An IP address identifies a device or server on a network; a URL gives the address of a web resource or page.",
+        "checkpoints": "1 mark for network device/server identifier; 1 for web resource address."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The message may pressure you to act immediately, which is a common warning sign. A link to an unfamiliar or misspelled website is another sign; a request for your password or an unusual sender would also be suspicious.",
+        "checkpoints": "1 mark each for two distinct indicators, such as urgency, suspicious link, request for password, odd sender or errors."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Open the service using a known address or app, then contact its official support or a trusted adult.",
+        "checkpoints": "1 mark each for two distinct safe verification actions."
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "B4",
+        "accepted": [
+          "B4"
+        ]
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The rule says above 18, so a value equal to 18 does not meet it.",
+        "checkpoints": "1 mark for distinguishing greater than from equal to."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Different colours or shades represent lower and higher values, making the pattern easier to see.",
+        "checkpoints": "1 mark for formatting based on value; 1 for comparison/pattern insight."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "The numbers already entered in the cells remain unchanged. Deleting the conditional-formatting rule removes only the automatic highlighting.",
+        "checkpoints": "1 mark for data remaining."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "It assumes attendance will be similar. If more people arrive, the model may underestimate cups and some visitors may have none.",
+        "checkpoints": "1 mark for a relevant assumption; 1 for how the calculated need changes; 1 for a linked practical consequence."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The value 7 is an integer because it is a whole number. The value 7.0 is a float because it has a decimal point, and 'seven' is a string because it is text.",
+        "checkpoints": "1 mark for each in order: int, float, str."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "In Python, = assigns a value to a variable, as in age = 13. The == operator compares two values and produces True or False depending on whether they are equal.",
+        "checkpoints": "1 mark for assignment; 1 for equality comparison."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "input returns text, and int converts suitable numeric text to an integer for arithmetic.",
+        "checkpoints": "1 mark for input returning a string; 1 for conversion enabling arithmetic."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The first statement prints 3 because 20 // 6 gives the whole-number quotient. The second prints 2, the remainder from 20 % 6. The third joins 'Go' and 'al' to print Goal.",
+        "checkpoints": "1 mark for each correct output in order: 3, 2, Goal."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The app analyses listening data and adjusts recommendations; an alphabetical list follows a fixed order regardless of the listener.",
+        "checkpoints": "1 mark for data-based adaptation; 1 for the fixed list contrast."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It analyses visual features such as text or colours and compares them with learned examples to identify the book.",
+        "checkpoints": "1 mark for features; 1 for comparison/classification."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Simulation allows safe testing of routes, but it may not reproduce every real obstacle or human action.",
+        "checkpoints": "1 mark for safe/low-risk testing; 1 for a realistic limitation."
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "A5, which contains 'Watering', is a label describing the row. B5, which contains 50, is data. The formula in B8 is a calculation that works out a result from other cells.",
+        "checkpoints": "1 mark for each in order."
+      },
+      {
+        "id": "b",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B2:B3)",
+        "accepted": [
+          "=SUM(B2:B3)",
+          "=SUM(B2,B3)"
+        ]
+      },
+      {
+        "id": "c",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=SUM(B5:B6)",
+        "accepted": [
+          "=SUM(B5:B6)",
+          "=SUM(B5,B6)"
+        ]
+      },
+      {
+        "id": "d",
+        "kind": "formula",
+        "marks": 1,
+        "suggested": "=B4-B7",
+        "accepted": [
+          "=B4-B7"
+        ]
+      },
+      {
+        "id": "e",
+        "kind": "exact",
+        "marks": 1,
+        "suggested": "30 litres",
+        "accepted": [
+          "30",
+          "30 litres",
+          "30 l"
+        ]
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "After cleaning uses another 15 litres, 15 litres are left. The balance has decreased by 15 litres from its earlier value of 30 litres.",
+        "checkpoints": "1 mark for 15 left; 1 for decrease of 15."
+      },
+      {
+        "id": "g",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The rule should test whether B8 is less than 20, written as B8 < 20. Exactly 20 litres is not highlighted because 20 is not less than 20.",
+        "checkpoints": "1 mark for less than 20; 1 for excluding equality."
+      },
+      {
+        "id": "h",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "Plan A leaves 110 - 90 = 20 litres, which is below the 25-litre target. Plan B leaves 100 - 60 = 40 litres, which meets the target. I would choose Plan B because it leaves enough water.",
+        "checkpoints": "1 mark for each balance; 1 for comparing with target; 1 for justified B recommendation."
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Terminator marks start/end; rectangle performs a calculation; parallelogram receives or displays data.",
+        "checkpoints": "1 mark for each correct purpose."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "At P, calculate distance by multiplying steps by stride_length. At Q, output the calculated distance so the user can see it.",
+        "checkpoints": "1 mark for multiplication; 1 for outputting distance."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Multiplying 1200 steps by 0.7 metres per step gives a distance of 840 metres. The final output is therefore 840 metres.",
+        "checkpoints": "1 mark for 840; 1 for matching output."
+      },
+      {
+        "id": "d",
+        "kind": "flow",
+        "marks": 5,
+        "suggested": "One correct flowchart places the steps in this order: Position 1: Start (start/end oval) → Position 2: Input kilometres and minutes per kilometre (input/output parallelogram) → Position 3: total_minutes = kilometres * minutes_per_kilometre (process rectangle) → Position 4: Output total_minutes (input/output parallelogram) → Position 5: Stop (start/end oval). The symbols show whether each step starts or ends the flow, takes input or output, makes a decision, or performs a calculation.",
+        "expected": {
+          "start": {
+            "card": "step-e17ea5ee9f",
+            "shape": "terminator"
+          },
+          "input": {
+            "card": "step-4707602ed9",
+            "shape": "io"
+          },
+          "process": {
+            "card": "step-c9b6e65992",
+            "shape": "process"
+          },
+          "output": {
+            "card": "step-4d21112ac8",
+            "shape": "io"
+          },
+          "stop": {
+            "card": "step-f7743b7f2f",
+            "shape": "terminator"
+          }
+        },
+        "scoring": [
+          {
+            "slots": [
+              "start"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "input"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "process"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "output"
+            ],
+            "marks": 1
+          },
+          {
+            "slots": [
+              "stop"
+            ],
+            "marks": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "code",
+        "marks": 3,
+        "suggested": "fahrenheit = celsius * 9 / 5 + 32\nprint('Fahrenheit:', fahrenheit)",
+        "checkpoints": "1 mark for ordinary division / instead of //; 1 for adding 32 instead of subtracting; 1 for the correct Fahrenheit output label.",
+        "note": "Use ordinary division so the temperature conversion can include fractions, add 32, and label the printed value Fahrenheit."
+      },
+      {
+        "id": "b",
+        "kind": "code",
+        "marks": 5,
+        "suggested": "boxes = int(input('Boxes: '))\nper_box = int(input('Pencils per box: '))\ntotal = boxes * per_box\nremaining = total - 12\nprint('Remaining:', remaining)",
+        "checkpoints": "1 mark for each converted input; 1 for multiplication; 1 for subtraction of 12; 1 for printing remaining.",
+        "note": "Convert both inputs to integers, multiply to find the total number of pencils, subtract 12, and print the remainder. Other variable names are acceptable if the calculation is correct."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "One valid test is 3 boxes with 10 pencils in each box. The program calculates 30 pencils in total, then subtracts 12 and should display 18 remaining.",
+        "checkpoints": "1 mark for valid positive whole-number inputs with product at least 12; 1 for correct expected result."
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "An image or video frame of a book cover or spine.",
+        "checkpoints": "1 mark for image/video data, not just 'camera'."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It analyses visible text, colours or cover patterns and compares them with learned examples to classify the book.",
+        "checkpoints": "1 mark for visible features; 1 for learned comparison."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "The fixed rule uses the same ordering each time; AI can use data such as borrowing patterns to adapt a suggestion.",
+        "checkpoints": "1 mark for fixed rule; 1 for data-based adaptation."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Faces might be recorded without need; aim the camera only at books or delete unrelated images.",
+        "checkpoints": "1 mark for concern; 1 for linked protective action."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "It can speed up sorting, but similar covers cause mistakes. Staff should verify uncertain matches and improve training before removing checks.",
+        "checkpoints": "1 mark each for benefit, observed limitation, mitigation, reasoned recommendation."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Simulate first to detect unsafe movements without risking a collision with visitors or damage to books.",
+        "checkpoints": "1 mark for simulation; 1 for linked safety reason."
+      }
+    ]
+  }
+]
