@@ -1,0 +1,452 @@
+{
+  "id": "sec1-set4",
+  "title": "Secondary 1 Digital Literacy Practice Set 4",
+  "level": 1,
+  "totalMarks": 100,
+  "questionCount": 21,
+  "questions": [
+    {
+      "number": 1,
+      "title": "Multiple choice",
+      "stem": "A laptop becomes slow because several programs compete for working memory. Which hardware component is most directly involved?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Printer",
+        "Monitor"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 2,
+      "title": "Multiple choice",
+      "stem": "A reviewer wants to suggest edits without silently replacing the original paragraph. Which feature is most appropriate?",
+      "options": [
+        "Track Changes",
+        "Page border",
+        "Print preview",
+        "Word count"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 3,
+      "title": "Multiple choice",
+      "stem": "Which connection commonly provides short-range communication between wireless earbuds and a phone?",
+      "options": [
+        "Cellular network",
+        "Fibre-optic cable",
+        "Bluetooth",
+        "Satellite link"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 4,
+      "title": "Multiple choice",
+      "stem": "A student finds an embarrassing old public post. What is the strongest conclusion?",
+      "options": [
+        "Deleting it guarantees nobody can have a copy",
+        "Only school staff can see it",
+        "All digital footprints disappear each day",
+        "Others may already have saved or shared it"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 5,
+      "title": "Multiple choice",
+      "stem": "A rule colours values that are less than 15. Which number should NOT be coloured?",
+      "options": [
+        "14",
+        "10",
+        "15",
+        "7"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 6,
+      "title": "Multiple choice",
+      "stem": "A spreadsheet model predicts ticket demand using last term’s attendance. Which change best checks the model’s reliability?",
+      "options": [
+        "Hide all inputs",
+        "Compare predictions with recent attendance data",
+        "Use a brighter font",
+        "Remove formulas"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 7,
+      "title": "Multiple choice",
+      "stem": "What is printed by print(18 % 7)?",
+      "options": [
+        "4",
+        "2",
+        "7",
+        "11"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 8,
+      "title": "Multiple choice",
+      "stem": "What Python type does input('Name: ') return before conversion?",
+      "options": [
+        "int",
+        "float",
+        "str",
+        "bool"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 9,
+      "title": "Multiple choice",
+      "stem": "Which expression calculates the square of n in Python?",
+      "options": [
+        "n == 2",
+        "n ** 2",
+        "n // 2",
+        "n % 2"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 10,
+      "title": "Multiple choice",
+      "stem": "A virtual science laboratory lets students test a dangerous reaction without real chemicals. What is this mainly an example of?",
+      "options": [
+        "File compression",
+        "Plagiarism",
+        "Network routing",
+        "Simulation"
+      ],
+      "marks": 1
+    },
+    {
+      "number": 11,
+      "title": "Computer systems",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Contrast what happens to RAM and ROM data after power is removed.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "State one operating-system task involving hardware.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Give one practical benefit of compressing a folder before sharing.",
+          "marks": 1,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Creating and reviewing content",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain how a team can use tracked edits to approve changes in a report.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "State two different places to store a backup outside the computer’s internal drive.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Networks",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A sports watch synchronises with a nearby phone, while the phone accesses maps across town. Identify an appropriate wireless technology for each.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Describe how encryption protects a file sent through a public network.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Digital citizenship",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain the meaning of digital footprint using one example from an online classroom.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "An unknown account threatens a student in a class discussion. Give two safe responses.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Rules and modelling",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A rule highlights values greater than or equal to 70. For 68, 70, 74 and 69, identify the highlighted values.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain whether removing conditional formatting also removes the values in the cells.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "A school models lunch demand using the same number of diners daily. State two important inputs.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "The model ignores students on a field trip. Explain one possible prediction error and one sensible improvement.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Python foundations",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Identify the types of 12, 12.5 and \"12\".",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain the difference between = and ==.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Explain what script mode offers compared with typing one command at a time.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "State the outputs of print(17 // 5), print(17 % 5), and print(3 * (2 + 4)).",
+          "marks": 3,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "AI and simulation",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Explain two features of a system that learns to recognise hand gestures from many labelled examples.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Distinguish a simulation from performing the same test in the real world.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "A game adjusts opponent difficulty based on player performance. Give one benefit and one potential limitation.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "School recycling drive spreadsheet",
+      "intro": "The student council compares mass collected by two houses. B2=35, B3=28, B5=19 and B6=16 (kilograms). B4, B7 and B8 are calculated.",
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "For a table showing item name, collected kilograms and total kilograms, identify one label, one data value and one calculation.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Collections B2=35 and B3=28; collections B5=19 and B6=16. Write a SUM formula in B4 for B2:B3.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Write a SUM formula in B7 for B5:B6.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Write a formula in B8 for the difference B4 minus B7.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "Calculate B8.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "A new collection raises B6 by 9 kg. State the new B8 and the amount of change.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "g",
+          "prompt": "A warning displays if B8 is below 20 kg. Write the condition and state what happens at exactly 20.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "h",
+          "prompt": "Two collection plans predict differences of 18 kg and 25 kg. The target is a difference of at least 20 kg. Evaluate the plans using the target, one assumption and a recommendation.",
+          "marks": 4,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Designing a sequential flowchart",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Name the symbols used for Start/Stop, input/output and processing.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "An algorithm inputs boxes=6 and books_per_box=9, then outputs boxes * books_per_box. State the process calculation and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Trace a different algorithm: Input length=11, width=4, calculate perimeter=2*(length+width), output perimeter. Give final value and output.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Describe a complete sequential flowchart that inputs adults and children, calculates total tickets needed and outputs it. Include the right symbols and correct flow.",
+          "marks": 5,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Python construction and testing",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "A program should compute the cost of 5 passes at $4 each, but uses total = 5 + 4. Identify the error and correct the calculation.",
+          "marks": 3,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Write Python code that inputs the number of crates and items in each crate as integers, calculates the number of items, and prints it.",
+          "marks": 5,
+          "kind": "code"
+        },
+        {
+          "id": "c",
+          "prompt": "Provide one valid test input pair, expected output and reason to test it.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "AI-powered aquarium guide",
+      "intro": null,
+      "parts": [
+        {
+          "id": "a",
+          "prompt": "Give a suitable data type a camera-based fish classifier receives.",
+          "marks": 1,
+          "kind": "written"
+        },
+        {
+          "id": "b",
+          "prompt": "Explain how examples of labelled fish photographs help the classifier.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "c",
+          "prompt": "Contrast a fixed list of fish species with an AI recognition guide.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "d",
+          "prompt": "Identify a privacy concern and matching safeguard when visitors appear in camera frames.",
+          "marks": 2,
+          "kind": "written"
+        },
+        {
+          "id": "e",
+          "prompt": "The system often confuses two similar species. Evaluate whether it should replace every human educator. Give a benefit, limitation, mitigation and recommendation.",
+          "marks": 4,
+          "kind": "written"
+        },
+        {
+          "id": "f",
+          "prompt": "Give two benefits of testing the guide virtually before relying on it at a busy aquarium.",
+          "marks": 2,
+          "kind": "written"
+        }
+      ]
+    }
+  ]
+}

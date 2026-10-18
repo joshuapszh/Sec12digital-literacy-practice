@@ -1,0 +1,394 @@
+[
+  {
+    "number": 1,
+    "key": "B",
+    "suggested": "RAM temporarily holds active programs and data while the device is running."
+  },
+  {
+    "number": 2,
+    "key": "A",
+    "suggested": "Track Changes records the proposed edits so another person can accept or reject them."
+  },
+  {
+    "number": 3,
+    "key": "C",
+    "suggested": "Bluetooth connects nearby devices over a short range."
+  },
+  {
+    "number": 4,
+    "key": "D",
+    "suggested": "Deleting the original does not guarantee copies or screenshots disappear."
+  },
+  {
+    "number": 5,
+    "key": "C",
+    "suggested": "Less than excludes the boundary value 15."
+  },
+  {
+    "number": 6,
+    "key": "B",
+    "suggested": "Comparing predictions with actual recent evidence tests whether assumptions remain reasonable."
+  },
+  {
+    "number": 7,
+    "key": "A",
+    "suggested": "18 divided by 7 leaves a remainder of 4."
+  },
+  {
+    "number": 8,
+    "key": "C",
+    "suggested": "input() returns text as a string."
+  },
+  {
+    "number": 9,
+    "key": "B",
+    "suggested": "** performs exponentiation."
+  },
+  {
+    "number": 10,
+    "key": "D",
+    "suggested": "Simulation models a real process so users can explore outcomes more safely."
+  },
+  {
+    "number": 11,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "RAM is volatile and loses its working contents; ROM retains its stored instructions or data.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "It controls or coordinates hardware and peripherals, for example the printer.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "A compressed folder is generally smaller and can require less storage or transfer time.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Tracked edits show the modifications; a reviewer accepts or rejects each change.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "For example, an external USB drive and cloud storage. Two brands of the same cloud-storage category count as one type.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Bluetooth connects the watch to the nearby phone; cellular networking can provide town-wide mobile connectivity.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Encryption transforms readable data into coded form so someone intercepting it cannot readily understand the content without the key.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A digital footprint is a record/trail of online activity; examples include submitted comments or published posts.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Save/report the incident and inform a trusted teacher or parent; block the account or stop responding. Do not retaliate.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "70 and 74. The equality sign includes 70.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "No. The colour or formatting rule is removed; the original cell data remains.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Number of diners and average portions required per diner, or a similarly coherent pair of model inputs.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It may overestimate meals and cause waste; use daily attendance or field-trip schedules to update the input.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "int, float and str respectively.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "= assigns a value, while == compares two values for equality.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A script saves a series of instructions and runs them as a program; interactive commands execute individually when entered.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "3, 2, and 18 respectively.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It learns patterns from data and uses them to classify new examples, rather than relying only on a fixed list of manually programmed examples.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A simulation models conditions digitally; a real-world test uses actual equipment and conditions.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "It may keep challenge appropriate; misjudging skill could make the game frustrating or too easy.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Label: an item name; data: entered mass; calculation: a formula adding or comparing masses.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "=SUM(B2:B3)",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "=SUM(B5:B6)",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "=B4-B7",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "63 − 35 = 28 kg.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "New B8 = 19 kg; difference decreases by 9 kg.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "g",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "B8 < 20; at exactly 20 the warning does not display.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "h",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "Plan with 25 kg meets target, while 18 kg misses it; predictions rely on assumptions such as participation; recommend the 25 kg plan but verify participation estimates.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "Terminator/oval, parallelogram, and rectangle.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "total = boxes * books_per_box; output 54.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "perimeter is 30; the displayed output is 30.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 5,
+        "suggested": "Start (oval) → Input adults, children (parallelogram) → total=adults+children (rectangle) → Output total (parallelogram) → Stop (oval), connected by arrows.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 3,
+        "suggested": "The operator should be multiplication: total = 5 * 4. The corrected total is 20, not 9.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "code",
+        "marks": 5,
+        "suggested": "crates = int(input('Crates: '))\nper_crate = int(input('Items per crate: '))\ntotal = crates * per_crate\nprint(total)",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "For crates=3, per_crate=8, expected total=24; checks multiplication and both input values.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "parts": [
+      {
+        "id": "a",
+        "kind": "written",
+        "marks": 1,
+        "suggested": "Image or video pixel data of fish.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "b",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Labels connect features to species; the model learns patterns it can use to classify new photos.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "c",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "A fixed list requires manual lookup; AI attempts to recognise a fish from new image input.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "d",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Accidental capture of visitors; avoid storage, crop/blurring people, limit access or obtain appropriate consent.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "e",
+        "kind": "written",
+        "marks": 4,
+        "suggested": "Fast guidance can help visitors; similar species are misclassified; improve data and retain expert checking; do not remove all educators.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      },
+      {
+        "id": "f",
+        "kind": "written",
+        "marks": 2,
+        "suggested": "Find recognition errors without disruption and refine behaviour before deployment.",
+        "checkpoints": "Self-check: award credit for correct steps and distinct points; accept equivalent valid solutions."
+      }
+    ]
+  }
+]
