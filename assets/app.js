@@ -22,7 +22,7 @@
   const partName = id => `Part (${id})`;
 
   function init() {
-    if (!/^sec[12]-set[123]$/.test(setId || "")) {
+    if (!/^sec[12]-set[1234]$/.test(setId || "")) {
       app.innerHTML = `<div class="loading-card">Practice set not found. <a href="${assetBase}index.html">View all sets</a></div>`;
       return;
     }
